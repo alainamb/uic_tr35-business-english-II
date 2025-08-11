@@ -1,0 +1,155 @@
+---
+layout: default
+title: Extra Credit
+parent: Overview
+nav_order: 3
+---
+
+# Extra Credit Opportunities
+
+Extra credit in this course rewards exceptional effort, consistency, and self-directed learning. These opportunities are designed for students who want to go above and beyond the regular coursework to deepen their business English skills.
+
+## Two Extra Credit Options
+
+### Option 1: Perfect Attendance (2 points)
+**Automatic extra credit for exceptional consistency**
+
+- Attend all 32 class meetings (starting Week 2)
+- You can still miss up to 2 classes without losing regular points
+- If you attend every single class from Week 2 onward = 2 extra credit points
+- No additional work required - just show up consistently!
+
+### Option 2: Custom Assignment (3 points)
+**Design your own learning experience**
+
+Create and complete a business English assignment that demonstrates initiative and connects course concepts to your interests or career goals.
+
+## Custom Assignment Guidelines
+
+### Requirements
+Your custom assignment must:
+- **Equal scope:** Approximately the same amount of work as a regular 3-point course assignment
+- **Connect to course content:** Reference specific units, vocabulary, or concepts from class
+- **Include clear deliverables:** Specific, measurable outcomes you will produce
+- **Be self-guided:** Minimal professor supervision required
+- **Include self-assessment:** Create your own rubric for evaluation
+
+### Timeline
+- **Week 1-9:** Brainstorm and develop your idea
+- **Week 10 deadline:** Submit proposal for approval 
+- **Week 11-15:** Complete your assignment
+- **Week 15 deadline:** Submit completed work
+- **Weeks 16-17:** No extra credit (focus on final project)
+
+### Proposal Requirements
+Submit a 1-page proposal including:
+1. **Assignment description:** What you will create/accomplish
+2. **Course connections:** How it relates to specific course content
+3. **Deliverables:** Exactly what you will submit
+4. **Timeline:** How you will complete it by Week 15
+5. **Self-assessment rubric:** How you will evaluate your own work
+
+## Custom Assignment Ideas
+
+### Business Communication Projects
+- **Business English Glossary:** Create a comprehensive glossary of 75-100 business terms with definitions, example sentences, and cultural usage notes
+- **Cross-Cultural Communication Guide:** Develop a practical guide for US-Mexico business interactions with real scenarios and language examples
+- **Industry-Specific Vocabulary Guide:** Research and document specialized terminology for a specific business sector (finance, technology, manufacturing, etc.)
+
+### Professional Development Projects
+- **Business Presentation Portfolio:** Create and record 3-5 mini-presentations on different business topics with self-reflection on improvement
+- **Mock Interview Series:** Conduct and analyze business English job interviews for different professional scenarios
+- **Business Writing Portfolio:** Develop templates and examples for various business documents not covered in class
+
+### Research and Analysis Projects
+- **Business Case Study:** Analyze a contemporary business communication challenge and propose solutions using course concepts
+- **Comparative Business Practices:** Research and compare business communication norms between Mexico and another country
+- **Business English Trend Analysis:** Investigate how business English is evolving in the digital age with recommendations for professionals
+
+### Creative Application Projects
+- **Business Simulation:** Design a business scenario simulation with roles, dialogue, and language learning objectives
+- **Training Materials:** Create business English learning materials for a specific audience (new employees, international partners, etc.)
+- **Digital Business Communication Audit:** Evaluate a company's digital communications and provide improvement recommendations
+
+### Media and Technology Projects
+- **Business Podcast Series:** Create 3-4 episodes on business English topics with transcripts and learning materials
+- **Video Tutorial Series:** Develop instructional videos on specific business communication skills
+- **Business English App Evaluation:** Test and compare business English learning apps with detailed analysis and recommendations
+
+## Evaluation Criteria
+
+Your custom assignment will be evaluated on:
+
+### Content Quality (1 point)
+- Demonstrates clear understanding of business English concepts
+- Shows depth of research and analysis
+- Connects meaningfully to course material
+
+### Professional Presentation (1 point)  
+- Well-organized and clearly structured
+- Professional formatting and presentation
+- Error-free grammar and spelling
+
+### Initiative and Creativity (1 point)
+- Shows original thinking and personal initiative
+- Goes beyond minimum requirements
+- Demonstrates practical application of learning
+
+## Getting Started
+
+### Step 1: Reflect on Your Goals
+- What aspects of business English interest you most?
+- How does business English connect to your career plans?
+- What skills do you want to develop further?
+
+### Step 2: Review Course Content
+- Look at all 5 units and weekly topics
+- Identify areas you want to explore deeper
+- Consider how you can apply concepts to real situations
+
+### Step 3: Choose Your Format
+- What type of project matches your strengths?
+- What format will best demonstrate your learning?
+- What can you realistically complete by Week 15?
+
+### Step 4: Develop Your Proposal
+- Write a clear, specific description
+- Create a realistic timeline
+- Design your self-assessment rubric
+
+### Step 5: Complete Your Assignment
+- Produce quality deliverables with a professional presentation
+- Assess your work for creativity, quality and professionalism
+- Submit your deliverables and your self assessment
+
+## Important Reminders
+
+- **Maximum 5 extra credit points total** (5 points is equivalent to 5% of your final grade for the class)
+- **Approval required by Week 10** - no exceptions
+- **No extensions** - must be completed by Week 15
+- **Quality over quantity** - focus on doing excellent work rather than just meeting requirements
+- **This is optional** - only pursue if you have time and genuine interest
+
+## Questions?
+
+Contact Professor Brandt via Teams or email if you need help:
+- Brainstorming assignment ideas
+- Developing your proposal
+- Understanding the requirements
+- Timeline planning
+
+---
+
+## 📥 Download Extra Credit Information
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/overview/extra-credit.md) and download it!
+
+### 🤖 AI Study Prompts
+Copy the downloaded extra credit information and try these prompts:
+- "Help me brainstorm a custom assignment idea that matches my career interests in [field]"
+- "Create a timeline for completing my extra credit project by Week 15"
+- "Help me develop a self-assessment rubric for my proposed assignment"
+- "What are the most important elements to include in my extra credit proposal?"
+
+---
+
+**Next:** Review the [Bibliography](bibliography.md) for course resources and recommended readings.
