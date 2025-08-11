@@ -9,6 +9,12 @@ nav_order: 1
 
 Welcome to Business English II, a course designed to deepen your understanding of business language and documentation in English across different professional contexts. This course builds on the foundation established in Business English I, focusing on specialized vocabulary, communication strategies, and document types essential for international business environments.
 
+### 📱 Course Communication
+**Class Meetings**: Tuesdays & Thursdays, 7-9am, AMER103  
+**Professor**: Alaina Brandt  
+**Email**: alaina.brandt@universidad-uic.edu.mx  
+**Platform**: Teams for quick questions and announcements
+
 ### 🎯 Course Objectives
 By the end of this course, you will be able to:
 
@@ -37,18 +43,6 @@ Intercultural competency, internal communications, and leadership language
 **Unit 5: Global Business & Technology (Weeks 13-15)**  
 International business documentation, digital tools, and innovation terminology
 
-### 🤖 Using Course Materials with AI Tools
-
-All course content is written in **Markdown format** for easy integration with AI learning tools:
-
-1. **Download any lesson** using the 📥 download links throughout the site
-2. **Copy the content** and paste into ChatGPT, Claude, or your preferred AI tool
-3. **Ask for help** with:
-   - Concept explanations with Mexican/U.S. business examples
-   - Practice exercises and mock scenarios
-   - Vocabulary reinforcement activities
-   - Cross-cultural communication insights
-
 ### 🎓 Final Project: Show & Tell Integration
 You'll demonstrate your comprehensive mastery through a **"Show and Tell"** approach that simulates authentic business communication:
 - **"Show"**: Professional presentation with visual aids
@@ -69,11 +63,23 @@ You'll demonstrate your comprehensive mastery through a **"Show and Tell"** appr
 - **30-minute rule**: Research independently, consult classmates, then contact professor
 - **Active communication**: Professor responds to Teams/email during business days
 
-### 📱 Course Communication
-**Class Meetings**: Tuesdays & Thursdays, 7-9am, AMER103  
-**Professor**: Alaina Brandt  
-**Email**: alaina.brandt@universidad-uic.edu.mx  
-**Platform**: Teams for quick questions and announcements
+### 🤖 Using Course Materials with AI Tools
+
+All course content is written in **Markdown format** for easy integration with AI learning tools:
+
+1. **Download any lesson** using the 📥 download links throughout the site
+2. **Copy the content** and paste into ChatGPT, Claude, or your preferred AI tool
+3. **Ask for help** with:
+   - Concept explanations with Mexican/U.S. business examples
+   - Practice exercises and mock scenarios
+   - Vocabulary reinforcement activities
+   - Cross-cultural communication insights
+  
+📥 Get practice by [downloading this file](
+
+📄 Course Overview (Markdown)
+📋 Complete Syllabus (Markdown)
+📦 All Course Materials (ZIP)
 
 ---
 
