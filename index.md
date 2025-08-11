@@ -75,12 +75,7 @@ All course content is written in **Markdown format** for easy integration with A
    - Vocabulary reinforcement activities
    - Cross-cultural communication insights
   
-📥 Get practice by [downloading this file](
-
-📄 Course Overview (Markdown)
-📋 Complete Syllabus (Markdown)
-📦 All Course Materials (ZIP)
-
+📥 Get practice by [downloading this file](https://raw.githubusercontent.com/alainamb/uic_tr35-business-english-II/refs/heads/main/index.md).
 ---
 
 ### 🚀 Ready to Begin?
