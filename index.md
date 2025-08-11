@@ -93,7 +93,7 @@ Get some practice by visiting [our repo](https://github.com/alainamb/uic_tr35-bu
 ---
 
 ### 🚀 Ready to Begin?
-Start with [Unit 1: Business Communication & Ethics](unit1/) or review the complete [Course Overview](overview/) including policies and project details.
+Start with [Unit 1: Business Communication & Ethics](unit1/) or review the complete [Course Overview](overview/overview.md) including policies and project details.
 
 **The course is conducted entirely in English** to strengthen your immersion and prepare you for professional contexts where English is the lingua franca of global business.
 
