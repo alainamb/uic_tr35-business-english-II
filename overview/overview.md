@@ -84,7 +84,7 @@ The course concludes with an integrative final project that synthesizes the know
 
 Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/overview/overview.md) and download it!
 
-**🤖 AI Study Prompts**
+### 🤖 AI Study Prompts
 Copy the downloaded overview and try these prompts:
 - "Help me create a study schedule for this 17-week course"
 - "Explain how these units build on each other progressively"  
