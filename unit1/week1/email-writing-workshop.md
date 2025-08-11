@@ -73,7 +73,7 @@ Work collaboratively to craft your email response, considering:
 - **Tone** that matches the situation and audience
 
 ### Step 3: Documentation Preparation (10 minutes)
-Prepare your submission in our shared folder using this format:
+Create a folder for your submission in our shared folder named according to the scenario you selected. Prepare your submission in your shared folder following the below format.
 
 ---
 
