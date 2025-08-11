@@ -77,13 +77,13 @@ To download any lesson as a markdown file for use with GAI tools:
 5. **Click download**
 6. **Double-click on the downloaded file** to open it in a text editor.
 
-**📓 GAI Study Tip**
+### 📓 GAI Study Tip
 Once downloaded, copy the entire file content and paste into ChatGPT/Claude or your preferred GAI tool with prompts like:
 - "Explain this lesson in simpler terms"
 - "Create practice exercises based on this content"
 - "Help me understand this with Mexican business examples"
 
-**📥 Get Practice Downloading Content and working with GAI** 
+### 📥 Get Practice Downloading Content and working with GAI
 Get some practice by visiting [our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/index.md) and downloading this index.md file. Copy the downloaded course information and try these prompts with ChatGPT/Claude:
 
 - "Explain how this course prepares me for international business"
