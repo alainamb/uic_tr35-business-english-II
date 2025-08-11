@@ -35,13 +35,13 @@ By the end of this unit, you'll be able to:
 
 ## Weekly Schedule
 
-### [Week 1: Business Communication Styles](week1/)
+### [Week 1: Business Communication Styles](week1-overview.md)
 Focus on written business communication formats, audience awareness, and digital communication etiquette.
 
-### [Week 2: Presentation Skills in Business Contexts](week2/)  
+### [Week 2: Presentation Skills in Business Contexts](week2-overview.md)  
 Structure of effective business presentations, visual aids and data visualization, delivery techniques and body language.
 
-### [Week 3: Ethics and Integrity in Business](week3/)
+### [Week 3: Ethics and Integrity in Business](week3-overview.md)
 Ethical frameworks in business decision-making, corporate social responsibility vocabulary, and cross-cultural perspectives on business ethics.
 
 ## Getting Started
@@ -64,4 +64,4 @@ Copy the downloaded unit overview and try these prompts:
 
 ---
 
-**Ready to begin?** Start with [Week 1: Business Communication Styles](week1/) to master professional written communication formats.
+**Ready to begin?** Start with [Week 1: Business Communication Styles](week1-overview.md) to master professional written communication formats.
