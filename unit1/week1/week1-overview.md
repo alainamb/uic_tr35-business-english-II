@@ -23,13 +23,13 @@ This week focuses on written business communication formats, audience awareness 
 
 ### Tuesday Class Activities
 - Course introduction and overview of the learning guide
+- Introduction to final project (proyecto integrador): Show & Tell
 - Group discussion on communication challenges when communicating via email
 - Interactive analysis of effective vs. ineffective business emails
 
 ### Thursday Class Activities  
 - Workshop: Drafting professional emails for different scenarios
 - Peer review activity using business writing evaluation criteria
-- Introduction to final project (proyecto integrador): Show & Tell
 
 ## Independent Activities
 
