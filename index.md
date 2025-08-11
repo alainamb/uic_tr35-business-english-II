@@ -4,18 +4,17 @@ title: Home
 nav_order: 1
 ---
 
-# TR35: Business English II
-## Fall 2025 - Universidad Intercontinental
+# TR35: Business English II - Fall 2025, Universidad Intercontinental
 
 Welcome to Business English II, a course designed to deepen your understanding of business language and documentation in English across different professional contexts. This course builds on the foundation established in Business English I, focusing on specialized vocabulary, communication strategies, and document types essential for international business environments.
 
-### 📱 Course Communication
+## 📱 Course Communication
 **Class Meetings**: Tuesdays & Thursdays, 7-9am, AMER103  
 **Professor**: Alaina Brandt  
 **Email**: alaina.brandt@universidad-uic.edu.mx  
 **Platform**: Teams for quick questions and announcements
 
-### 🎯 Course Objectives
+## 🎯 Course Objectives
 By the end of this course, you will be able to:
 
 - **Produce professional business communications** appropriate for diverse contexts and audiences
@@ -25,7 +24,7 @@ By the end of this course, you will be able to:
 - **Evaluate and respond to changing business environments** using proper business English
 - **Deliver effective presentations and reports** using specialized business vocabulary
 
-### 📚 Course Structure
+## 📚 Course Structure
 The course is structured into **five thematic units** that progressively build your knowledge and skills:
 
 **Unit 1: Business Communication & Ethics (Weeks 1-3)**  
@@ -43,27 +42,27 @@ Intercultural competency, internal communications, and leadership language
 **Unit 5: Global Business & Technology (Weeks 13-15)**  
 International business documentation, digital tools, and innovation terminology
 
-### 🎓 Final Project: Show & Tell Integration
+## 🎓 Final Project: Show & Tell Integration
 You'll demonstrate your comprehensive mastery through a **"Show and Tell"** approach that simulates authentic business communication:
 - **"Show"**: Professional presentation with visual aids
 - **"Tell"**: Detailed written business report
 - **Teams of 3**: Collaborative research and presentation
 - **Contemporary topics**: Related to course content and global business trends
 
-### 📋 Assessment Overview
+## 📋 Assessment Overview
 - **Attendance & Participation**: 30% (2 points weekly)
 - **General Assignments**: 30% (10 assignments × 3 points each)
 - **Partial Evaluations**: 30% (3 evaluations × 10% each)
 - **Final Project**: 10% (Integrated "Show & Tell" project)
 
-### 💡 Success Tips
+## 💡 Success Tips
 - **6-8 hours weekly** work expected outside class
 - **Review materials before Tuesday classes** for effective participation
 - **Start assignments early** to have time for questions
 - **30-minute rule**: Research independently, consult classmates, then contact professor
 - **Active communication**: Professor responds to Teams/email during business days
 
-### 🤖 Using Course Materials with AI Tools
+## 🤖 Using Course Materials with AI Tools
 
 All course content is written in **Markdown format** for easy integration with AI learning tools:
 
