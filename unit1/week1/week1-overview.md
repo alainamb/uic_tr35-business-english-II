@@ -30,6 +30,7 @@ This week focuses on written business communication formats, audience awareness 
 ### Thursday Class Activities  
 - Workshop: Drafting professional emails for different scenarios
 - Peer review activity using business writing evaluation criteria
+- Preview of what's ahead in week 2
 
 ## Independent Activities
 
