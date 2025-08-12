@@ -71,10 +71,7 @@ Post your findings to our class discussion platform using this format:
 ```
 Subject line: Declining a Meeting Request
 Link to email: [URL to your example]
-Brief description: This email effectively declines a meeting while offering 
-alternative solutions. The writer was specific about why they couldn't attend 
-and provided two concrete alternatives. However, it could have been improved 
-by including their availability for rescheduling.
+Brief description: This email effectively declines a meeting while offering alternative solutions. The writer was specific about why they couldn't attend  and provided two concrete alternatives. However, it could have been improved by including their availability for rescheduling.
 Final judgment: SOMEWHAT EFFECTIVE
 ```
 
