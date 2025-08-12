@@ -65,7 +65,7 @@ Post your findings to our class discussion platform using this format:
 
 **Brief description:** [What did/didn't work well and how it could be improved]
 
-**Final judgment:** EFFECTIVE | MOSTLY EFFECTIVE | SOMEWHAT INEFFECTIVE | INEFFECTIVE
+**Final judgment:** | EFFECTIVE | MOSTLY EFFECTIVE | SOMEWHAT INEFFECTIVE | INEFFECTIVE
 
 ### Example Post Format:
 ```
