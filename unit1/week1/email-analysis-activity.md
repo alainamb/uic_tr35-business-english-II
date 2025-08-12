@@ -16,7 +16,7 @@ In this hands-on analysis activity, you'll research real business email examples
 
 **Find and analyze business email examples** to determine what makes them effective or ineffective in achieving their communication goals.
 
-## Step 1: Research Email Examples (15 minutes)
+## Step 1: Research Email Examples
 
 ### Finding Examples
 Use Google searches like:
@@ -32,7 +32,7 @@ Choose emails that clearly demonstrate effective or ineffective communication st
 - Client communications
 - Internal team communications
 
-## Step 2: Analyze Your Examples (15 minutes)
+## Step 2: Analyze Your Examples
 
 ### Key Analysis Framework
 
@@ -54,7 +54,7 @@ Watch for emails that:
 - **Include unnecessary recipients** - CC'ing people who don't need the information
 - **Bury important information** in long paragraphs
 
-## Step 3: Share Your Analysis (10 minutes)
+## Step 3: Share Your Analysis
 
 Post your findings to our class discussion platform using this format:
 
@@ -75,7 +75,7 @@ Brief description: This email effectively declines a meeting while offering alte
 Final judgment: SOMEWHAT EFFECTIVE
 ```
 
-## Step 4: Learn from Classmates (5 minutes)
+## Step 4: Learn from Classmates
 
 **Read and respond** to at least 2-3 posts from your classmates as they come through. Consider:
 - Do you agree with their analysis?
