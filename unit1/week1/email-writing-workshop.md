@@ -133,4 +133,4 @@ After completing your group work, enhance your skills with these prompts:
 
 ---
 
-**Next Activity:** [Peer Review Using Business Writing Evaluation Criteria](peer-review-activity.md)
+**Next Activity:** [Peer Review Using Business Writing Evaluation Criteria](email-peer-review.md)
