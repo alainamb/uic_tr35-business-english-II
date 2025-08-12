@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Peer Review Activity
+title: Email Peer Review
 parent: Week 1
 grand_parent: Unit 1
 nav_order: 4
