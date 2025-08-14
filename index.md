@@ -50,7 +50,7 @@ You'll demonstrate your comprehensive mastery through a **"Show and Tell"** appr
 - **Contemporary topics**: Related to course content and global business trends
 
 ## 📋 Assessment Overview
-- **Attendance & Participation**: 30% (2 points weekly)
+- **Attendance & Participation**: 30% (2 points weekly, 15 weeks required of 16 available)
 - **General Assignments**: 30% (10 assignments × 3 points each)
 - **Partial Evaluations**: 30% (3 evaluations × 10% each)
 - **Final Project**: 10% (Integrated "Show & Tell" project)
