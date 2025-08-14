@@ -45,7 +45,7 @@ This week focuses on written business communication formats, audience awareness 
 
 ## Assessment
 
-- **Class attendance and participation** (2 points)
+- There are no assessments this week.
 
 ---
 
