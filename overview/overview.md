@@ -78,6 +78,9 @@ The course concludes with an integrative final project that synthesizes the know
 **17 weeks total**  
 **5 units** with 3 topics per unit plus the integrative project
 
+## Weekly Workflow
+**We have class on Tuesdays and Thursdays** and the materals for the week will be available for review at the start of the week. Homework is generally due the Sunday after our weekly class meetings.
+
 ---
 
 ## 📥 Download Course Overview
