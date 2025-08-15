@@ -64,3 +64,7 @@ Copy the downloaded week content and try these prompts:
 - "What makes business presentations effective vs. ineffective?"
 - "Create ideas for compelling visual aids on business trends"
 - "Give me tips for managing presentation anxiety in professional settings"
+
+---
+
+**Ready to dive deeper?** Explore the specific activities and resources for this week below.
