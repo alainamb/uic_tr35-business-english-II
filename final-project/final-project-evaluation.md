@@ -224,4 +224,4 @@ Copy the downloaded evaluation criteria and try these prompts:
 
 ---
 
-**Next:** Complete your learning journey with the [Course Conclusion](course-conclusion.md) that celebrates your achievements and outlines next steps.
+**Next:** Complete your learning journey with the [Course Conclusion](../conclusion/course-conclusion.md) that celebrates your achievements and outlines next steps.
