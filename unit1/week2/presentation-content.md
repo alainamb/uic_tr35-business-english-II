@@ -85,9 +85,9 @@ By the end of this lesson, you will understand how to:
 - Be mindful of religious holidays and cultural practices in scheduling
 
 **Language Considerations**
-- Speak at a measured pace for non-native speakers
+- Plan to speak at a measured pace for non-native speakers
 - Provide key terms in writing on slides
-- Allow time for questions and clarification
+- Allow time for questions and clarification at the end
 
 ---
 
