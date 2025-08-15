@@ -64,4 +64,4 @@ Copy the downloaded unit overview and try these prompts:
 
 ---
 
-**Ready to begin?** Start with [Week 7: Specifications & Technical Documentation](week7-overview.md) to master technical specification formats and terminology.
+**Ready to begin?** Start with [Week 7: Specifications & Technical Documentation](week7/week7-overview.md) to master technical specification formats and terminology.
