@@ -90,4 +90,4 @@ Copy the downloaded conclusion and try these prompts:
 
 ---
 
-**Ready for the next challenge?** Continue to [Unit 3: Production & Quality Processes](../unit3/) to explore operational excellence and quality management in international business contexts.
+**Ready for the next challenge?** Continue to [Unit 3: Production & Quality Processes](../unit3/unit3-overview.md) to explore operational excellence and quality management in international business contexts.
