@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assignment: Mini-Presentation
+title: Assignment - Mini-Presentation
 parent: Week 2
 grand_parent: Unit 1
 nav_order: 4
