@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Assignment - Mini-Presentation
+title: Mini-Presentation Assignment
 parent: Week 2
 grand_parent: Unit 1
 nav_order: 4
 ---
 
-# Assignment: Mini-Presentation
+# Mini-Presentation Assignment
 
 ## Overview
 Working in small groups, you'll create and deliver a 5-7 minute business presentation on a topic relevant to translation, localization, or interpretation professionals.
