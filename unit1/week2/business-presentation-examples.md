@@ -34,7 +34,7 @@ Working individually and in small groups, find **two business presentations onli
 
 For each presentation, rate it using our established scale and provide specific evidence:
 
-**Rating Scale:** EFFECTIVE | MOSTLY EFFECTIVE | SOMEWHAT INEFFECTIVE | INEFFECTIVE
+**Rating Scale:** | EFFECTIVE | MOSTLY EFFECTIVE | SOMEWHAT INEFFECTIVE | INEFFECTIVE
 
 **Evaluation Criteria**
 
