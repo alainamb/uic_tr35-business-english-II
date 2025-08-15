@@ -91,4 +91,4 @@ Copy the downloaded conclusion and try these prompts:
 
 ---
 
-**Ready for the next challenge?** Continue to [Unit 4: People & Relationships](../unit4/) to explore organizational dynamics and leadership communication.
+**Ready for the next challenge?** Continue to [Unit 4: People & Relationships](../unit4/unit4-overview.md) to explore organizational dynamics and leadership communication.
