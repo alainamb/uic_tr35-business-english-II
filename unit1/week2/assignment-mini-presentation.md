@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Business Presentations
+title: Assignment: Mini-Presentation
 parent: Week 2
 grand_parent: Unit 1
-nav_order: 1
+nav_order: 4
 ---
 
 # Assignment: Mini-Presentation
