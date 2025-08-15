@@ -90,4 +90,4 @@ Copy the downloaded conclusion and try these prompts:
 
 ---
 
-**Ready for the next challenge?** Continue to [Unit 2: Legal & Financial Frameworks](../unit2/) to explore specialized business terminology and documentation.
+**Ready for the next challenge?** Continue to [Unit 2: Legal & Financial Frameworks](../unit2/unit2-overview.md) to explore specialized business terminology and documentation.
