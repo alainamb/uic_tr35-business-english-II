@@ -117,4 +117,4 @@ After working through these resources, deepen your understanding with these prom
 
 ---
 
-**Next Activity:** [Presentation-Delivery](presentation-delivery.md) where we'll learn about presentation delivery techniques to bring your well-designed content to life.
+**Next Activity:** [Presentation Delivery](presentation-delivery.md) where we'll learn about presentation delivery techniques to bring your well-designed content to life.
