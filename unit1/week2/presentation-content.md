@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Business Presentations
+title: Presentation Design
 parent: Week 2
 grand_parent: Unit 1
 nav_order: 2
