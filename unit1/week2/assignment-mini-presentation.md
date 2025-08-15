@@ -40,7 +40,7 @@ Choose **one** of the following business scenarios relevant to translation/local
 5. **Quality Assurance Process** - Present your quality control methodology to clients
 6. **Market Entry Recommendations** - Advise a company on language and cultural considerations for expanding internationally
 
-*Other topics may be approved by instructor*
+*Each topic may only be selected once. Additional topics may be approved by instructor.*
 
 ---
 
