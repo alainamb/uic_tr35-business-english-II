@@ -149,7 +149,7 @@ The global business community needs skilled professionals who can bridge communi
 ---
 
 ## 📥 Download Course Conclusion
-Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/final-project/course-conclusion.md) and download it!
+Find this file [on our repo](https://github.com/alainamb/uic_tr35-business-english-II/blob/main/conclusion/course-conclusion.md) and download it!
 
 ### 🤖 AI Study Prompts
 Copy the downloaded conclusion and try these prompts:
