@@ -60,3 +60,7 @@ Copy the downloaded week content and try these prompts:
 - "What are the most important clauses to look for when reviewing an NDA?"
 - "Create practice scenarios for annotating and negotiating contract terms"
 - "Explain the difference between legal language in contracts vs. privacy policies"
+
+---
+
+**Ready to dive deeper?** Explore the specific activities and resources for this week below.
