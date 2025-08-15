@@ -113,4 +113,4 @@ Copy the downloaded conclusion and try these prompts:
 
 ---
 
-**Congratulations!** You have completed Business English II and are ready to apply your comprehensive business communication skills in professional contexts. Continue developing your expertise through real-world practice and ongoing professional development.
+**Ready for the final challenge?** Continue to the [Final Project](../final-project/final-project-overview.md) to apply all your skills in international business scenarios.
