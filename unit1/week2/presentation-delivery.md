@@ -119,16 +119,16 @@ Remember: Even experienced presenters feel nervous. The goal isn't to eliminate 
 *Use this space to jot down your personal approach:*
 
 **Before I present, I will:**
-- 
-- 
+- Action 1
+- Action 2
 
 **During my presentation, if I feel nervous, I will:**
-- 
-- 
+- Stragegy 1
+- Stragegy 1
 
 **My confidence comes from:**
-- 
-- 
+- Source 1
+- Source 2
 
 ---
 
