@@ -42,7 +42,7 @@ This week focuses on legal document structures and conventions, contract termino
 ## Learning Resources
 
 - Example contracts
-- [9 Clauses to Include in Every NDA](https://www.axial.net/forum/nda-clauses/) by Axial
+- 9 Clauses to Include in Every NDA by Axial
 
 ## Assessment
 
