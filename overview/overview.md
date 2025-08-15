@@ -96,4 +96,4 @@ Copy the downloaded overview and try these prompts:
 
 ---
 
-**Next:** Learn about the [Final Project](final-project-overview.md) - the capstone "Show & Tell" experience that demonstrates your mastery of business English.
+**Next:** Learn about the [Final Project](final-project.md) - the capstone "Show & Tell" experience that demonstrates your mastery of business English.
