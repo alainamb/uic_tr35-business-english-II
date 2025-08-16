@@ -109,10 +109,11 @@ Each student must **comment on at least one rehearsal** (not your own group's):
 
 ### Assessment Criteria
 
-| **Category** | **Effective (1 point)** | **Needs Improvement (1 point)** |
+| **Category** | **Effective** | **Needs Improvement** |
 |--------------|---------------|----------------|
 | **Content Organization & Visual Design** | Clear structure, appropriate content, compelling design | TMI in slides, lack of logical flow, disengaging design, etc. |
 | **Delivery** | Confident, engaging, professional presence | Lack of confidence in delivery, lack of eye contact, read directly from script, etc. |
+| **Reflection** | Self awareness and critical analysis in discussion of lessons learned | Surface-level statements, lack of reflection, etc. |
 | **Group Collaboration** | Seamless teamwork evident | Teamwork not divided equally, lack of collaboration, etc. |
 
 ---
