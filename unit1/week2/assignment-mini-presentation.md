@@ -109,13 +109,11 @@ Each student must **comment on at least one rehearsal** (not your own group's):
 
 ### Assessment Criteria
 
-| **Category** | **Effective** | **Mostly Effective** | **Developing** |
-|--------------|---------------|----------------|----------------|
-| **Content Organization** | Clear structure, compelling flow, strong conclusion | Good organization with minor gaps | Some structural issues |
-| **Visual Design** | Professional, supports message effectively | Clean design, mostly effective | Basic design, some distractions |
-| **Delivery** | Confident, engaging, professional presence | Clear delivery, good poise | Adequate delivery, room for improvement |
-| **Business Relevance** | Highly relevant, actionable insights | Good relevance to business context | Somewhat relevant |
-| **Group Collaboration** | Seamless teamwork evident | Good collaboration | Basic teamwork |
+| **Category** | **Effective (1 point)** | **Needs Improvement (1 point)** |
+|--------------|---------------|----------------|
+| **Content Organization & Visual Design** | Clear structure, appropriate content, compelling design | TMI in slides, lack of logical flow, disengaging design, etc. |
+| **Delivery** | Confident, engaging, professional presence | Lack of confidence in delivery, lack of eye contact, read directly from script, etc. |
+| **Group Collaboration** | Seamless teamwork evident | Teamwork not divided equally, lack of collaboration, etc. |
 
 ---
 
