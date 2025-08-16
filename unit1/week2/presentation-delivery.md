@@ -123,8 +123,8 @@ Remember: Even experienced presenters feel nervous. The goal isn't to eliminate 
 - Action 2
 
 **During my presentation, if I feel nervous, I will:**
-- Stragegy 1
-- Stragegy 1
+- Strategy 1
+- Strategy 2
 
 **My confidence comes from:**
 - Source 1
