@@ -144,8 +144,6 @@ Again, **congratulations once again on completing Business English II!** You hav
 
 The global business community needs skilled professionals who can bridge communication gaps with expertise, cultural sensitivity, and ethical awareness. You are prepared to contribute as one of those professionals.
 
-**Welcome to your future as a business communication specialist. The world awaits your contributions.**
-
 ---
 
 ## 📥 Download Course Conclusion
