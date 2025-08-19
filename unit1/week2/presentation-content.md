@@ -54,12 +54,12 @@ By the end of this lesson, you will understand how to:
 - Line graphs for trends over time
 - Infographics for process flows or complex relationships
 
-**Visual Hierarchy:**
+**Visual Hierarchy**
 - One main message per slide
 - Limit text to bullet points or key phrases
 - Ensure text is readable from the back of the room
 
-**Professional Polish:**
+**Professional Polish**
 - Consistent fonts, colors, and spacing throughout
 - High-quality images and graphics
 - White space is powerful—don't overcrowd slides
