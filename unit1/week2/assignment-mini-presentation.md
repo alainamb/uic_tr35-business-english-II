@@ -39,6 +39,8 @@ Choose **one** of the following business scenarios relevant to translation/local
 4. **Technology Tools Comparison** - Compare translation technology tools or AI translation technologies for a business audience
 5. **Quality Assurance Process** - Present your quality control methodology to clients
 6. **Market Entry Recommendations** - Advise a company on language and cultural considerations for expanding internationally
+7. **Crisis Communication Strategy** - Present how to handle translation errors or cultural missteps that have gone public
+8. **Remote Team Management** - Recommend best practices for managing distributed translation and localization teams
 
 *Each topic may only be selected once. Additional topics may be approved by instructor.*
 
