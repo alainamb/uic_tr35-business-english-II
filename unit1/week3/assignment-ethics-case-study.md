@@ -200,4 +200,4 @@ After completing your ethics case study, enhance your learning with these prompt
 
 ---
 
-**Week 3 Complete!** Your ethical analysis skills will serve you throughout your professional career. Next, we'll move into [Unit 2: Legal & Financial Frameworks](../../unit2/unit2-overview.md).
+**Unit 1 Complete!** Your ethical analysis skills will serve you throughout your professional career. Reflect on what you've achieved in the [Unit 1 - Conclusion](../unit1-conclusion.md).
