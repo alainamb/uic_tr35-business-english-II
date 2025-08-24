@@ -40,7 +40,10 @@ This week focuses on ethical frameworks in business decision-making, corporate s
 ### Assignment: Ethics Case Study
 - Summarize the ethical dilemma
 - Analyse the situation using ethical frameworks
-- Recommend a course of action with justification
+- Write a role-play script in which you:
+  - alert a key stakeholder of the issue
+  - present your analysis and
+  - recommend a course of action with justification
 - **Due date:** Sunday of Week 3
 
 ## Learning Resources
