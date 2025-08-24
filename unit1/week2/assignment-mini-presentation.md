@@ -97,7 +97,7 @@ Each student must **comment on at least one rehearsal** (not your own group's):
 ## Final Submission (Due Sunday)
 
 ### File Naming Convention
-`FirstnameLastname-FirstnameLastname_TopicAbbreviation.pdf`
+`GroupMembersFirstLastNames_TopicAbbreviation.pdf`
 
 **Examples:**
 - `Reyes-Brandt_PresentationSkills.pdf`
