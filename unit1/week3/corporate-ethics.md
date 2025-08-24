@@ -109,12 +109,14 @@ Building on our class work, consider how cultural background shapes ethical pers
 **Post to Teams Ethics Channel:**
 
 **Part 1: Article Analysis**
+
 Share your perspective on business bluffing by addressing:
 - Your position on whether business bluffing is ethical, with specific scenarios
 - One insight about the relationship between different types of ethics
 - One critique or limitation of Carr's argument
 
 **Part 2: Cultural Ethics Reflection (Optional)**
+
 Provide:
 - One specific, culturally-influenced ethical dilemma relevant to language professionals
 - Analysis of how this dilemma might be viewed differently across cultures
